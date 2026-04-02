@@ -48,7 +48,7 @@ const App = () => {
   });
 
   return (
-    <Router>
+    <Router basename="/AI_Stego">
       <div className="app-container">
         <Navigation user={user} setUser={setUser} />
         <div className="page-container">
