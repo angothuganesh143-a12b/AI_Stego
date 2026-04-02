@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-sqlalchemy
+pymysql
+cryptography
+opencv-python
+numpy
+python-dotenv
+werkzeug
